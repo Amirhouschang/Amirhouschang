@@ -53,7 +53,7 @@ How I work with AI, which models I tested and where they went wrong:
 **Data and Process Analysis with Python** – Data Analytics Compact Course, Data Science Institute, Berlin
 (Feb–Aug 2026, 24 weeks, certified)  
 **M.A. Iranian Studies** – University of Bamberg  
-**B.A. Iranian, Islamic and Jewish Studies** – Freie Universität Berlin
+**B.A. Islamic and Jewish Studies** – Freie Universität Berlin
 
 Academic work on Iran and the wider Middle East: Persian-language sources, media and political history.
 
