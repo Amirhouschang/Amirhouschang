@@ -66,4 +66,4 @@ Data analyst roles in any field, especially the Middle East, security, research,
  
 ## Contact
  
-[LinkedIn](https://www.linkedin.com/in/amirhoushang-rahmannejad)
+[LinkedIn](https://www.linkedin.com/in/amirhoushang-rahmannejad) · [Substack](https://amir161659.substack.com) (articles based on my analyses)
