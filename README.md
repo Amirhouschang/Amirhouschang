@@ -19,6 +19,8 @@ Islamic and Jewish studies. Python, SQL and Power BI are how I apply a historian
 | --- | --- | --- |
 | [persian-media-analysis](https://github.com/Amirhouschang/persian-media-analysis) | 328,000+ Persian-language Telegram posts from six Iranian news channels during the 2026 war: PostgreSQL database, locally run AI classification, bilingual dashboard | [Dashboard](https://persian-media-analysis-ijvfxggccjhs6zroefhwcc.streamlit.app/?lang=en) |
 | [cybercrime-germany-pks](https://github.com/Amirhouschang/cybercrime-germany-pks) | Recorded cybercrime in Germany, 2016–2025: cases, clearance rate and differences between the 16 federal states, from the BKA Police Crime Statistics | [Dashboard](https://cybercrime-germany-pks.streamlit.app/) |
+| [right-wing-crime-germany-pmk](https://github.com/Amirhouschang/right-wing-crime-germany-pmk) | Right-wing motivated offences in Germany, 2014–2025: offence types, differences between the 16 federal states and AfD election results alongside, from official BKA/BMI statistics | [Dashboard](https://right-wing-crime-germany-pmk.streamlit.app/) |
+| [rss-news-automation](https://github.com/Amirhouschang/rss-news-automation) | Daily email digest with news from five countries: RSS → PostgreSQL → random sample → local AI summaries (Ollama) → n8n | – |
 | [global-defense-sector-analysis](https://github.com/Amirhouschang/global-defense-sector-analysis) | 42 defense companies from 15 countries, 2022–2026: returns, volatility and reactions to geopolitical events (Python, Power BI) | – |
 | [car-industry-germany-vs-asia](https://github.com/Amirhouschang/car-industry-germany-vs-asia) | Germany vs. China, Japan and South Korea, 2019–2025: car production, sales and electric cars from public data | [Dashboard](https://car-industry-germany-vs-asia-ve5jblutzyvxbprlapnx82.streamlit.app/?lang=en) |
 | [german-credit-rates-vs-ecb-rate](https://github.com/Amirhouschang/german-credit-rates-vs-ecb-rate) | German consumer and corporate credit rates vs. ECB policy rates, 2020–2026, via the Bundesbank API | [Dashboard](https://german-credit-rates-vs-ecb-rate-ywntxevqbxdtuaskipepzy.streamlit.app/?lang=en) |
@@ -35,7 +37,7 @@ Islamic and Jewish studies. Python, SQL and Power BI are how I apply a historian
 ## Tools
  
 Python (pandas, Matplotlib, Seaborn, Streamlit) · SQL (PostgreSQL, Dune) · Power BI (DAX) · Excel (Power Query) ·
-APIs & ETL · NLP and local language models (Ollama) · AWS basics · Jupyter · Linux
+APIs & ETL · Workflow automation (n8n) · NLP and local language models (Ollama) · AWS basics · Jupyter · Linux
  
 ## How I work with AI
  
@@ -67,3 +69,4 @@ Data analyst roles in any field, especially the Middle East, security, research,
 ## Contact
  
 [LinkedIn](https://www.linkedin.com/in/amirhoushang-rahmannejad) · [Substack](https://amir161659.substack.com) (articles based on my analyses)
+ 
