@@ -15,7 +15,7 @@ Islamic and Jewish studies. Python, SQL and Power BI are how I apply a historian
   PostgreSQL), analysing it and presenting it (Streamlit, Power BI, Dune dashboards).
 ## Featured projects
  
-## Security, crime and media analysis
+### Security, crime and media analysis
  
 | Project | What it does | Live |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Islamic and Jewish studies. Python, SQL and Power BI are how I apply a historian
 | [right-wing-crime-germany-pmk](https://github.com/Amirhouschang/right-wing-crime-germany-pmk) | Right-wing motivated offences in Germany, 2014–2025: offence types, differences between the 16 federal states and AfD election results alongside, from official BKA/BMI statistics | [Dashboard](https://right-wing-crime-germany-pmk.streamlit.app/) |
 | [rss-news-automation](https://github.com/Amirhouschang/rss-news-automation) | Fully automated daily email digest with news from five countries: an n8n workflow collects RSS feeds, stores them in PostgreSQL, draws a random sample and has a local AI model (Ollama) summarise it; a further stage compares these summaries with a cloud model | – |
  
-## Crypto and on-chain data
+### Crypto and on-chain data
  
 | Project | What it does | Live |
 | --- | --- | --- |
