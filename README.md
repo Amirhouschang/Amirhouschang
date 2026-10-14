@@ -48,7 +48,9 @@ Islamic and Jewish studies. Python, SQL and Power BI are how I apply a historian
  
 Python (pandas, Matplotlib, Seaborn, Streamlit) · SQL (PostgreSQL, Dune) · Power BI (DAX) · Excel (Power Query) ·
 APIs & ETL · Workflow automation (n8n) · NLP and local language models (Ollama) · AWS basics · Jupyter · Linux
- 
+
+My working environment as a NixOS configuration: [nixos-data-analysis](https://github.com/Amirhouschang/nixos-data-analysis). My daily system is Arch Linux, but this file contains the same tools I work with.
+
 ## How I work with AI
  
 I'm an analyst, not a software engineer. Many of my projects were built with AI assistance, using cloud and local
