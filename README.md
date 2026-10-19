@@ -64,3 +64,4 @@ How I work with AI, which models I tested and where they went wrong:
 ## Contact
  
 [LinkedIn](https://www.linkedin.com/in/amirhoushang-rahmannejad)
+[Discord](https://discord.com/users/1391449218975006871)
