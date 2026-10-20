@@ -44,6 +44,8 @@ Islamic and Jewish studies. Python, SQL and Power BI are how I apply a historian
 - [german-credit-rates-vs-ecb-rate](https://github.com/Amirhouschang/german-credit-rates-vs-ecb-rate) – German credit rates vs. ECB policy rates, 2020–2026 ([Dashboard](https://german-credit-rates-vs-ecb-rate-ywntxevqbxdtuaskipepzy.streamlit.app/?lang=en))
 - [dax-mdax-h1-2026-analysis](https://github.com/Amirhouschang/dax-mdax-h1-2026-analysis) – DAX vs. MDAX in the first half of 2026
 - [covid-market-sector-analysis](https://github.com/Amirhouschang/covid-market-sector-analysis) – 24 assets in four sectors before, during and after COVID-19 (2018–2023)
+- [follow-for-follow-checker](https://github.com/Amirhouschang/follow-for-follow-checker) – Tracks views, visitors and clones of my GitHub repos and checks who follows back (Python, GitHub API, Excel)
+  
 ## Tools
  
 Python (pandas, Matplotlib, Seaborn, Streamlit) · SQL (PostgreSQL, Dune) · Power BI (DAX) · Excel (Power Query) ·
