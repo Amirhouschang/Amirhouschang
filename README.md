@@ -28,7 +28,7 @@ Islamic and Jewish studies. Python, SQL and Power BI are how I apply a historian
  
 ### Crypto and on-chain data
 
-> These projects are not about trading. I love Web3 because I see a real future for it in the real economy: maximum transparency, so users can follow what actually happens to the money they invest somewhere (not everything, but much more than with traditional banking), everything in one place and traceable, independence from many intermediaries, and the simplicity of using crypto in everyday life, if that becomes possible. I'm also interested in new ways of buying and selling stocks, such as tokenized shares, once the legal situation improves. And of course in strange phenomena like the destructive buying and selling of memecoins, for no real reason at all.
+> These projects are not about trading. I love Web3 because I see a real future for it in the real economy. It offers maximum transparency: users can follow what actually happens to the money they invest somewhere. Not everything, but much more than with traditional banking. Everything stays in one place and is traceable. It also allows independence from many intermediaries, and crypto could become simple to use in everyday life. I'm also interested in new ways of buying and selling stocks, such as tokenized shares, once the legal situation improves. And of course in strange phenomena like the destructive buying and selling of memecoins, for no real reason at all.
  
 | Project | What it does | Live |
 | --- | --- | --- |
